@@ -1,5 +1,6 @@
 📊 Employee Salary Prediction – IBM SkillsBuild Internship Project
-This project was developed during my internship with IBM SkillsBuild (via Edunet Foundation) and focuses on predicting employee salaries based on job-related features. A Linear Regression model is used to estimate annual salary, and the solution is deployed through a Streamlit web application for real-time user interaction.
+
+ -This project was developed during my internship with IBM SkillsBuild (via Edunet Foundation) and focuses on predicting employee salaries based on job-related features. A Linear Regression model is used to         estimate annual salary, and the solution is deployed through a Streamlit web application for real-time user interaction.
 
 🔍 Overview
 The objective of this project is to predict an employee's Annual Salary using two key features:
