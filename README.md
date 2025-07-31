@@ -66,7 +66,7 @@ streamlit run my_app.py
 
 
 📌 Internship Acknowledgement
-This project is part of my learning journey under the
-IBM SkillsBuild Internship (in collaboration with Edunet Foundation)
-🧠 Focus Area: Applied Machine Learning & AI
-🎓 Mode: Remote
+   -This project is part of my learning journey under the
+    IBM SkillsBuild Internship (in collaboration with Edunet Foundation)
+    🧠 Focus Area: Applied Machine Learning & AI
+    🎓 Mode: Remote
